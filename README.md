@@ -36,7 +36,7 @@ Objectives:
 
 # 2. 📂 Data Understanding
 
-The dataset contains 43 of the most common foods globally, with 23 columns detailing their respective land, water usage, and carbon footprint.
+The [dataset](https://azubiafrica-my.sharepoint.com/:x:/r/personal/teachops_azubiafrica_org/_layouts/15/Doc.aspx?sourcedoc=%7B3E112463-368D-41C7-A8F0-A784AF801F3E%7D&file=Food_Production.csv&action=default&mobileredirect=true) contains 43 of the most common foods globally, with 23 columns detailing their respective land, water usage, and carbon footprint.
 
 * Greenhouse Gas Emissions
 
