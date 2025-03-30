@@ -13,5 +13,11 @@ By leveraging data-driven insights, we will explore:
 
 - Actionable strategies to promote sustainable food choices at both consumer and policy levels.
 
+# 📊 CRISP-DM Framework Implementation
+
+To ensure a structured and systematic analysis, this project follows the CRISP-DM (Cross Industry Standard Process for Data Mining) framework.
+
+#  1. 📌 Business Understanding
+
 
 
