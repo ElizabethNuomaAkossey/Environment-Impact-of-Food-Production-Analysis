@@ -18,6 +18,59 @@ By leveraging data-driven insights, we will explore:
 To ensure a structured and systematic analysis, this project follows the CRISP-DM (Cross Industry Standard Process for Data Mining) framework.
 
 #  1. 📌 Business Understanding
+Objectives:
+
+* Analyze the environmental impact of food production in four key areas:
+
+    - Carbon emissions
+
+    - Water usage
+
+    - Land use
+
+    - Biodiversity loss
+
+* Identify high-impact foods and compare plant-based vs. animal-based products.
+
+* Provide actionable recommendations for reducing environmental impact.
+
+# 2. 📂 Data Understanding
+
+The dataset contains 43 of the most common foods globally, with 23 columns detailing their respective land, water usage, and carbon footprint.
+
+* Greenhouse Gas Emissions
+
+    - Land use change (Kg CO₂-eq per kg product)
+
+    - Animal Feed (Kg CO₂-eq per kg product)
+
+    - Farm (Kg CO₂-eq per kg product)
+
+    - Processing, Transport, Packaging, Retail emissions
+
+* Water Usage
+
+    - Freshwater withdrawals per kg, per 100g protein, per 1000 kcal
+
+    - Scarcity-weighted water use (liters per kg, per 100g protein, per 1000 kcal)
+
+* Land Use
+
+    - Land use per kg, per 100g protein, per 1000 kcal
+
+* Eutrophication (Nutrient Pollution Impact)
+
+    - Eutrophying emissions per kg, per 100g protein, per 1000 kcal
+
+# 3. 🛠 Data Preparation
+
+# 4. 🤖 Modeling
+
+# 5. 📝 Evaluation
+
+# 6. 📢 Deployment
+
+🛠 Tools Used
 
 
 
