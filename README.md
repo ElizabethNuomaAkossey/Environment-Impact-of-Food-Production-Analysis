@@ -1,21 +1,17 @@
-# Project Overview
-As the global population grows, so does the demand for food, leading to increased pressure on natural resources. Food production is a leading driver of environmental degradation, contributing significantly to greenhouse gas emissions, water consumption, and land use changes. Without intervention, these impacts could accelerate climate change, exacerbate water scarcity, and threaten biodiversity.
+# 🌍 Project Overview
+The increasing global demand for food places immense pressure on natural resources, contributing significantly to environmental degradation. According to [Our world in Data](https://ourworldindata.org/environmental-impacts-of-food), food production accounts for 26% of global greenhouse gas emissions, occupies half of the world’s habitable land, and is responsible for 70% of freshwater withdrawals. Additionally, agricultural activities contribute to 78% of global ocean and freshwater eutrophication, leading to severe nutrient pollution in waterways.
 
-Infact, recent studies highlight the urgency of addressing these challenges:
+Without intervention, these environmental impacts will continue to accelerate climate change, deplete water resources, and threaten biodiversity. Understanding the environmental footprint of different food products is crucial for designing sustainable food systems. This project aims to quantify and analyze these impacts, identifying high-impact areas and potential pathways for sustainability.
 
-* Food production is responsible for 26% of global greenhouse gas emissions  [Our world in Data](https://ourworldindata.org/environmental-impacts-of-food)
+By leveraging data-driven insights, we will explore:
+
+- The extent of greenhouse gas emissions, water consumption, and land use associated with different food types.
+
+- The comparative impact of plant-based vs. animal-based products.
+
+- The contribution of different foods to water pollution through eutrophication.
+
+- Actionable strategies to promote sustainable food choices at both consumer and policy levels.
 
 
-* Agriculture occupies half of the world's habitable land and accounts for 70% of global freshwater withdrawals [Our world in Data](https://ourworldindata.org/environmental-impacts-of-food)
 
-* It contributes to 78% of global ocean and freshwater eutrophication, leading to severe nutrient pollution in waterways  [Our world in Data](https://ourworldindata.org/environmental-impacts-of-food)
-
-Understanding the environmental footprint of different food products is crucial for designing sustainable food systems. This project aims to quantify and analyze these impacts, identifying high-impact areas and potential pathways for sustainability. By leveraging data-driven insights, we can better understand:
-
-The extent of greenhouse gas emissions, water withdrawals, and land use associated with different food types.
-
-How plant-based and animal-based products compare in terms of their environmental impact.
-
-Which food products contribute most to water pollution through eutrophication.
-
-Actionable strategies to promote sustainable food choices at the consumer and policy levels.
