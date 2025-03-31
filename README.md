@@ -1,4 +1,4 @@
-# 🌍 Project Overview
+# Project Overview
 The increasing global demand for food places immense pressure on natural resources, contributing significantly to environmental degradation. According to [Our world in Data](https://ourworldindata.org/environmental-impacts-of-food), food production accounts for 26% of global greenhouse gas emissions, occupies half of the world’s habitable land, and is responsible for 70% of freshwater withdrawals. Additionally, agricultural activities contribute to 78% of global ocean and freshwater eutrophication, leading to severe nutrient pollution in waterways.
 
 Without intervention, these environmental impacts will continue to accelerate climate change, deplete water resources, and threaten biodiversity. Understanding the environmental footprint of different food products is crucial for designing sustainable food systems. This project aims to quantify and analyze these impacts, identifying high-impact areas and potential pathways for sustainability.
@@ -13,11 +13,11 @@ By leveraging data-driven insights, we will explore:
 
 - Actionable strategies to promote sustainable food choices at both consumer and policy levels.
 
-# 📊 CRISP-DM Framework Implementation
+# CRISP-DM Framework Implementation
 
 To ensure a structured and systematic analysis, this project follows the CRISP-DM (Cross Industry Standard Process for Data Mining) framework.
 
-#  1. 📌 Business Understanding
+#  1. Business Understanding
 Objectives:
 
 * Analyze the environmental impact of food production in four key areas:
@@ -34,7 +34,7 @@ Objectives:
 
 * Provide actionable recommendations for reducing environmental impact.
 
-# 2. 📂 Data Understanding
+# 2. Data Understanding
 
 The [dataset](https://azubiafrica-my.sharepoint.com/:x:/r/personal/teachops_azubiafrica_org/_layouts/15/Doc.aspx?sourcedoc=%7B3E112463-368D-41C7-A8F0-A784AF801F3E%7D&file=Food_Production.csv&action=default&mobileredirect=true) contains 43 of the most common foods globally, with 23 columns detailing their respective land, water usage, and carbon footprint.
 
@@ -62,15 +62,15 @@ The [dataset](https://azubiafrica-my.sharepoint.com/:x:/r/personal/teachops_azub
 
     - Eutrophying emissions per kg, per 100g protein, per 1000 kcal
 
-# 3. 🛠 Data Preparation
+# 3. Data Preparation
 
-# 4. 🤖 Modeling
+# 4. Modeling
 
-# 5. 📝 Evaluation
+# 5. Evaluation
 
-# 6. 📢 Deployment
+# 6. Deployment
 
-🛠 Tools Used
+ Tools Used
 
 
 
