@@ -69,6 +69,26 @@ The dataset was imported and processed using Python, with key libraries such as 
   
 As part of our exploratory data analysis, we identified several outliers, which revealed skewness in our data. This step was crucial, as outliers can distort statistical analyses and lead to misleading conclusions. It helped guide our approach to handling missing values and informed our decisions about the imputation methods we would apply later on.
 
+* Correlation Analysis
+
+    - Strong Positive Correlations
+
+    Greenhouse gas emissions per 100g protein strongly correlate with land use change (~0.86), emphasizing that land-intensive food production significantly drives emissions.
+
+    Land use per kilogram is highly correlated with land use per 100g protein (~0.91), showing that land requirements scale with protein content.
+
+    Total emissions and farm emissions have a high correlation, confirming that farm-level activities dominate the environmental footprint.
+
+    - Moderate Correlstion
+
+    Scarcity-weighted water use per kg moderately correlates with land use (~0.59), implying that resource-heavy foods demand both land and water.
+
+    - Weak or No Correlation
+    
+    Transport emissions show minimal correlation with most variables, reinforcing that food production has a far greater impact than transportation in environmental costs.
+
+    Eutrophication emissions per kilogram negatively correlate with some land and water metrics, suggesting nutrient pollution doesn’t always scale with resource use.
+
 # 4. Modeling
 
 # 5. Evaluation
