@@ -63,6 +63,11 @@ The [dataset](https://azubiafrica-my.sharepoint.com/:x:/r/personal/teachops_azub
     - Eutrophying emissions per kg, per 100g protein, per 1000 kcal
 
 # 3. Data Preparation
+The dataset was imported and processed using Python, with key libraries such as pandas, NumPy, and Matplotlib for analysis and visualization. Initial exploration involved fundamental checks - .head(), .tail(), and .shape()-revealing 43 rows (food items) and 23 columns (environmental metrics). There were no duplicate entries, but missing values were present across several columns.
+
+* Outliers Analysis
+  
+As part of our exploratory data analysis, we identified several outliers, which revealed skewness in our data. This step was crucial, as outliers can distort statistical analyses and lead to misleading conclusions. It helped guide our approach to handling missing values and informed our decisions about the imputation methods we would apply later on.
 
 # 4. Modeling
 
