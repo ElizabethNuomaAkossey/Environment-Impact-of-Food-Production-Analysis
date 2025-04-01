@@ -70,6 +70,8 @@ The dataset was imported and processed using Python, with key libraries such as 
 As part of our exploratory data analysis, we identified several outliers, which revealed skewness in our data. This step was crucial, as outliers can distort statistical analyses and lead to misleading conclusions. It helped guide our approach to handling missing values and informed our decisions about the imputation methods we would apply later on.
 
 * Correlation Analysis
+![image](https://github.com/user-attachments/assets/386cf9d3-d479-4d52-a9d8-dce6831d2cc8)
+
 
     - Strong Positive Correlations
 
