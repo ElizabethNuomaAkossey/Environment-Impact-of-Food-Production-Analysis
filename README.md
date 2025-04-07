@@ -98,6 +98,6 @@ As part of our exploratory data analysis, we identified several outliers, which 
 # 6. Deployment
 
  Tools Used
-
+    Jupyter Notebook
 
 
